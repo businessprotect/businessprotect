@@ -1,7 +1,6 @@
 <template>
   <footer>
     <div class="container">
-      <p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Update Footer Sections</a></p>
       <div class="footer-columns">
         <ul class="footer-links">
           <li>
@@ -56,10 +55,9 @@
     </div>
     <div class="legal-line">
       <p class="container">
-        &copy; 2018 NPC Business Protect &bull;
-        <a href="/terms/">Terms</a>
+        &copy; 2018 NPC Business Protect
         &bull;
-        Build by <a href="http://bestclick.solutions/">Best Click Solutions</a>
+        Site creat de <a href="http://bestclick.solutions/">Best Click Solutions</a>
       </p>
     </div>
   </footer>
