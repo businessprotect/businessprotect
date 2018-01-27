@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <template>
   <section class="main">
     <div class="container">
