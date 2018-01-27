@@ -25,7 +25,8 @@
             </address>
           </div>
           <div class="column">
-            <form name="contact" netlify>
+            <form name="contact" action="https://formspree.io/npcprotect@gmail.com"
+                  method="POST">
               <label for="email_address">Adresa Email / Numar Telefon</label>
               <input id="email_address" type="text" name="email">
               <label for="name">Nume</label>
