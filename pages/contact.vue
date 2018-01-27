@@ -25,7 +25,7 @@
             </address>
           </div>
           <div class="column">
-            <form name="contact" action="/success" data-netlify="true">
+            <form name="contact" action="/success">
               <label for="email_address">Adresa Email / Numar Telefon</label>
               <input id="email_address" type="text" name="email">
               <label for="name">Nume</label>
