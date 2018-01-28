@@ -3,6 +3,9 @@ module.exports = {
   ** Headers of the page
   */
   head: {
+    htmlAttrs: {
+      lang: 'ro'
+    },
     title: 'businessprotect',
     meta: [
       { charset: 'utf-8' },
