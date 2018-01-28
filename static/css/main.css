@@ -124,6 +124,16 @@ footer a {
   footer a.active {
     border-bottom: 2px solid; }
 
+header a.nuxt-link-active {
+  border-bottom: 2px solid; }
+
+header a,
+footer a {
+  color: #3A4145; }
+  header a.nuxt-link-active,
+  footer a.nuxt-link-active {
+    border-bottom: 2px solid; }
+
 header a.active {
   border-bottom: 2px solid; }
 

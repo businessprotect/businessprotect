@@ -1,30 +1,14 @@
 <template>
   <header style="background-image: url('/building.jpg');">
     <div class="container">
-      <h1><a href="/">NPC<br/>Business<br/>Protect</a></h1>
+      <h1>NPC<br/>Business<br/>Protect</h1>
       <nav>
         <ul>
-          <li><a v-bind:class="{ active: isHome }" href="/">Acasă</a></li>
-          <li><a v-bind:class="{ active: isServices }" href="/services/">Servicii</a></li>
-          <li><a v-bind:class="{ active: isContact }" href="/contact/">Contact</a></li>
+          <li><nuxt-link to="/" exact>Acasă</nuxt-link></li>
+          <li><nuxt-link to="/services" exact>Servicii</nuxt-link></li>
+          <li><nuxt-link to="/contact" exact>Contact</nuxt-link></li>
         </ul>
       </nav>
     </div>
   </header>
 </template>
-
-<script>
-  import TheFooter from '~/components/TheFooter.vue'
-  import TheHeader from '~/components/TheHeader.vue'
-  import TheQuote from '~/components/TheQuote.vue'
-
-  export default {
-    data: function () {
-      return {
-        isHome: this.$route.name == 'index',
-        isServices: this.$route.name === 'services',
-        isContact: this.$route.name === 'contact'
-      }
-    }
-  }
-</script>

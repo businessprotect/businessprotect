@@ -7,13 +7,13 @@
             <h2>Pagini</h2>
           </li>
           <li>
-            <a href="/">Acasă</a>
+            <nuxt-link to="/" exact>Acasă</nuxt-link>
           </li>
           <li>
-            <a href="/services/" >Servicii</a>
+            <nuxt-link to="/services" exact>Servicii</nuxt-link>
           </li>
           <li>
-            <a href="/contact/" >Contact</a>
+            <nuxt-link to="/contact" exact>Contact</nuxt-link>
           </li>
         </ul>
         <ul class="footer-links">
@@ -62,6 +62,3 @@
     </div>
   </footer>
 </template>
-
-<style>
-</style>
