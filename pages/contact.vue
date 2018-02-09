@@ -6,12 +6,12 @@
       </div>
       <article class="content">
         <p class="editable">
-          Dă-ne un telefon sau trimite-ne un mesaj cu detaliile tale și te vom contacta in cel<br/>mai scurt timp posibil.
-          Prima întâlnire este gratuită.
+          Dă-ne un telefon sau trimite-ne un mesaj cu detaliile tale și te vom contacta în cel
+          <br/> mai scurt timp posibil. Prima întâlnire este gratuită.
         </p>
         <div class="columns">
           <div class="column">
-            <label>Numar Telefon</label>
+            <label>Număr Telefon</label>
             <p class="contact-info"><a href="tel:0727463260">072 7463 260</a></p>
             <p class="contact-info"><a href="tel:0722258039">072 2258 039</a></p>
             <label>Adresa Email</label>

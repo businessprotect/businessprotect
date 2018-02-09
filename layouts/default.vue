@@ -4,6 +4,19 @@
     <nuxt/>
     <the-quote/>
     <the-footer/>
+    <div class="fb-customerchat"
+         page_id="npc.business.protect"
+         ref="<OPTIONAL_WEBHOOK_PARAM>"
+         theme_color="<HEX_COLOR_CODE>"
+         logged_in_greeting="<GREETING_MESSAGE_FOR_LOGGED_IN_USERS>"
+         logged_out_greeting="<GREETING_MESSAGE_FOR_LOGGED_OUT_USERS>">
+    </div>
+    <div
+      class="fb-like"
+      data-share="true"
+      data-width="450"
+      data-show-faces="true">
+    </div>
   </div>
 </template>
 

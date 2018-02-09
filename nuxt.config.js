@@ -2,6 +2,9 @@ module.exports = {
   /*
   ** Headers of the page
   */
+  plugins: [
+    { src: '~plugins/fb-sdk.js', ssr: false }
+  ],
   head: {
     htmlAttrs: {
       lang: 'ro'

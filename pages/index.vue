@@ -11,7 +11,7 @@
             15 ani și răspund cu succes cerințelor exigente ale pieței aflate în continuă schimbare.
           </p>
           <p>
-            Asigurăm clienților nostri garantia seriozității și profesionlismului ce ne caracterizează și oferim
+            Asigurăm clienților noștri garanția seriozității și profesionlismului ce ne caracterizează și oferim
             servicii de calitate în domeniile Securității și Sănătații în Muncă, Prevenirii și Stingerii Incendiilor,
             Evaluării Riscurilor de accidentare și imbolnăvire profesională, Medicina muncii.
           </p>
