@@ -1,11 +1,10 @@
 <template>
   <div>
-    <the-header/>
-    <nuxt/>
+    <the-header/><nuxt/>
     <the-quote/>
     <the-footer/>
     <div class="fb-customerchat"
-         page_id="npc.business.protect"
+         page_id="206698393220486"
          ref="<OPTIONAL_WEBHOOK_PARAM>"
          theme_color="<HEX_COLOR_CODE>"
          logged_in_greeting="<GREETING_MESSAGE_FOR_LOGGED_IN_USERS>"
