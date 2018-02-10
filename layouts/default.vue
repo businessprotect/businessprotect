@@ -5,17 +5,9 @@
     <the-footer/>
     <div class="fb-customerchat"
          page_id="206698393220486"
-         ref="<OPTIONAL_WEBHOOK_PARAM>"
-         theme_color="<HEX_COLOR_CODE>"
-         logged_in_greeting="<GREETING_MESSAGE_FOR_LOGGED_IN_USERS>"
-         logged_out_greeting="<GREETING_MESSAGE_FOR_LOGGED_OUT_USERS>">
+         theme_color="#0084FF">
     </div>
-    <div
-      class="fb-like"
-      data-share="true"
-      data-width="450"
-      data-show-faces="true">
-    </div>
+
   </div>
 </template>
 
